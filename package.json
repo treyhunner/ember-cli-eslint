@@ -55,6 +55,6 @@
     "defaultBlueprint": "ember-cli-eslint"
   },
   "dependencies": {
-    "broccoli-lint-eslint": "^0.1.5"
+    "broccoli-lint-eslint": "^1.0.1"
   }
 }
